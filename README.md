@@ -4,7 +4,7 @@ This repository contains the code and the data used for testing the machine lear
 1. synthetic.py - main model, which contains 4 different synthesizers, 4 machine learning models as well as hyperparameter tuning using RandomizedSearchCV and 3 different model quality metrics.
 2. clean_data.csv - data used for modeling
 3. requirements.txt - all of the libraries used in the main script
-4. license - Apache-2.0
+4. LICENSE - Apache-2.0
 ## Python environment
 The version of python used for this pipeline is 3.14.3
 ## Script usage example
