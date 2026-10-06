@@ -20,4 +20,4 @@ The version of python used for this pipeline is 3.14.3
 ## Expected outputs
 The script should output a dictionary of results containing top-5 best models by R2
 ## License
-The source code in this repository is released under the Apache License 2.0. See LICENSE.
+The source code in this repository is released under the Apache License 2.0.
