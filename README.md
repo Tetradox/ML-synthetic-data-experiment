@@ -7,7 +7,7 @@ This repository contains the code and the data used for testing the machine lear
 4. LICENSE - Apache-2.0
 ## Input data
 Dataset used in this project contains 4 descriptors: I_D/I_G, Temperature, Time and BET and 1 output parameter: Selectivity. There's a total of 40 unique rows of data
-##Installation
+## Installation
 1. Create a virtual environment
 2. Type in your terminal: "pip install -r requirements.txt"
 ## Python environment
